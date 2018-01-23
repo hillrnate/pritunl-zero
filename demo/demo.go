@@ -15,7 +15,7 @@ import (
 )
 
 func IsDemo() bool {
-	return settings.System.Demo
+	return true
 }
 
 func Blocked(c *gin.Context) bool {
