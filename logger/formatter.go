@@ -3,7 +3,7 @@ package logger
 import (
 	"fmt"
 	"github.com/Sirupsen/logrus"
-	"github.com/pritunl/pritunl-zero/colorize"
+	"github.com/hillrnate/pritunl-zero/colorize"
 	"sort"
 	"time"
 )

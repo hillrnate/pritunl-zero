@@ -2,8 +2,8 @@ package nonce
 
 import (
 	"github.com/dropbox/godropbox/errors"
-	"github.com/pritunl/pritunl-zero/database"
-	"github.com/pritunl/pritunl-zero/errortypes"
+	"github.com/hillrnate/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/errortypes"
 	"time"
 )
 

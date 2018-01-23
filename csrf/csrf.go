@@ -1,8 +1,8 @@
 package csrf
 
 import (
-	"github.com/pritunl/pritunl-zero/database"
-	"github.com/pritunl/pritunl-zero/utils"
+	"github.com/hillrnate/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/utils"
 	"time"
 )
 

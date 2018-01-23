@@ -11,8 +11,8 @@ import (
 	"encoding/base64"
 	"encoding/pem"
 	"github.com/dropbox/godropbox/errors"
-	"github.com/pritunl/pritunl-zero/database"
-	"github.com/pritunl/pritunl-zero/errortypes"
+	"github.com/hillrnate/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/errortypes"
 	"golang.org/x/crypto/ssh"
 	"gopkg.in/mgo.v2/bson"
 )

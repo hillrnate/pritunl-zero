@@ -1,10 +1,10 @@
 package session
 
 import (
-	"github.com/pritunl/pritunl-zero/agent"
-	"github.com/pritunl/pritunl-zero/database"
-	"github.com/pritunl/pritunl-zero/settings"
-	"github.com/pritunl/pritunl-zero/utils"
+	"github.com/hillrnate/pritunl-zero/agent"
+	"github.com/hillrnate/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/settings"
+	"github.com/hillrnate/pritunl-zero/utils"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 	"net/http"

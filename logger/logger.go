@@ -2,8 +2,8 @@ package logger
 
 import (
 	"github.com/Sirupsen/logrus"
-	"github.com/pritunl/pritunl-zero/constants"
-	"github.com/pritunl/pritunl-zero/requires"
+	"github.com/hillrnate/pritunl-zero/constants"
+	"github.com/hillrnate/pritunl-zero/requires"
 	"os"
 	"strings"
 )

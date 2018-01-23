@@ -3,11 +3,11 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/pritunl/pritunl-zero/cmd"
-	"github.com/pritunl/pritunl-zero/constants"
-	"github.com/pritunl/pritunl-zero/logger"
-	"github.com/pritunl/pritunl-zero/requires"
-	"github.com/pritunl/pritunl-zero/task"
+	"github.com/hillrnate/pritunl-zero/cmd"
+	"github.com/hillrnate/pritunl-zero/constants"
+	"github.com/hillrnate/pritunl-zero/logger"
+	"github.com/hillrnate/pritunl-zero/requires"
+	"github.com/hillrnate/pritunl-zero/task"
 	"time"
 )
 

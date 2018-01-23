@@ -6,7 +6,7 @@ import (
 	"crypto/md5"
 	"encoding/base32"
 	"github.com/dropbox/godropbox/errors"
-	"github.com/pritunl/pritunl-zero/errortypes"
+	"github.com/hillrnate/pritunl-zero/errortypes"
 	"io/ioutil"
 	"path/filepath"
 	"strings"

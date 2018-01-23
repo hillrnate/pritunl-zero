@@ -2,10 +2,10 @@ package agent
 
 import (
 	"github.com/Sirupsen/logrus"
-	"github.com/pritunl/pritunl-zero/database"
-	"github.com/pritunl/pritunl-zero/geo"
-	"github.com/pritunl/pritunl-zero/node"
-	"github.com/pritunl/pritunl-zero/settings"
+	"github.com/hillrnate/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/geo"
+	"github.com/hillrnate/pritunl-zero/node"
+	"github.com/hillrnate/pritunl-zero/settings"
 	"github.com/ua-parser/uap-go/uaparser"
 	"net/http"
 )

@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"github.com/Sirupsen/logrus"
 	"github.com/dropbox/godropbox/errors"
-	"github.com/pritunl/pritunl-zero/errortypes"
-	"github.com/pritunl/pritunl-zero/requires"
-	"github.com/pritunl/pritunl-zero/settings"
+	"github.com/hillrnate/pritunl-zero/errortypes"
+	"github.com/hillrnate/pritunl-zero/requires"
+	"github.com/hillrnate/pritunl-zero/settings"
 	"net/http"
 	"time"
 )

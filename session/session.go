@@ -2,9 +2,9 @@
 package session
 
 import (
-	"github.com/pritunl/pritunl-zero/agent"
-	"github.com/pritunl/pritunl-zero/database"
-	"github.com/pritunl/pritunl-zero/user"
+	"github.com/hillrnate/pritunl-zero/agent"
+	"github.com/hillrnate/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/user"
 	"gopkg.in/mgo.v2/bson"
 	"time"
 )

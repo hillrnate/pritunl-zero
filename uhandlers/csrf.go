@@ -2,10 +2,10 @@ package uhandlers
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/pritunl/pritunl-zero/authorizer"
-	"github.com/pritunl/pritunl-zero/csrf"
-	"github.com/pritunl/pritunl-zero/database"
-	"github.com/pritunl/pritunl-zero/utils"
+	"github.com/hillrnate/pritunl-zero/authorizer"
+	"github.com/hillrnate/pritunl-zero/csrf"
+	"github.com/hillrnate/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/utils"
 )
 
 type csrfData struct {

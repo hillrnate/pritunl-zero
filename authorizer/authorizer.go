@@ -1,12 +1,12 @@
 package authorizer
 
 import (
-	"github.com/pritunl/pritunl-zero/cookie"
-	"github.com/pritunl/pritunl-zero/database"
-	"github.com/pritunl/pritunl-zero/service"
-	"github.com/pritunl/pritunl-zero/session"
-	"github.com/pritunl/pritunl-zero/signature"
-	"github.com/pritunl/pritunl-zero/user"
+	"github.com/hillrnate/pritunl-zero/cookie"
+	"github.com/hillrnate/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/service"
+	"github.com/hillrnate/pritunl-zero/session"
+	"github.com/hillrnate/pritunl-zero/signature"
+	"github.com/hillrnate/pritunl-zero/user"
 	"gopkg.in/mgo.v2/bson"
 	"net/http"
 )

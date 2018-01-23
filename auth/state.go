@@ -1,7 +1,7 @@
 package auth
 
 import (
-	"github.com/pritunl/pritunl-zero/settings"
+	"github.com/hillrnate/pritunl-zero/settings"
 	"sort"
 )
 

@@ -2,8 +2,8 @@ package proxy
 
 import (
 	"github.com/Sirupsen/logrus"
-	"github.com/pritunl/pritunl-zero/node"
-	"github.com/pritunl/pritunl-zero/utils"
+	"github.com/hillrnate/pritunl-zero/node"
+	"github.com/hillrnate/pritunl-zero/utils"
 	"net/http"
 	"strings"
 )

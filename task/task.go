@@ -3,8 +3,8 @@ package task
 import (
 	"fmt"
 	"github.com/Sirupsen/logrus"
-	"github.com/pritunl/pritunl-zero/database"
-	"github.com/pritunl/pritunl-zero/node"
+	"github.com/hillrnate/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/node"
 	"time"
 )
 

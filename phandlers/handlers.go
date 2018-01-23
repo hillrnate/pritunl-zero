@@ -2,14 +2,14 @@ package phandlers
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/pritunl/pritunl-zero/config"
-	"github.com/pritunl/pritunl-zero/constants"
-	"github.com/pritunl/pritunl-zero/middlewear"
-	"github.com/pritunl/pritunl-zero/proxy"
-	"github.com/pritunl/pritunl-zero/requires"
-	"github.com/pritunl/pritunl-zero/service"
-	"github.com/pritunl/pritunl-zero/static"
-	"github.com/pritunl/pritunl-zero/utils"
+	"github.com/hillrnate/pritunl-zero/config"
+	"github.com/hillrnate/pritunl-zero/constants"
+	"github.com/hillrnate/pritunl-zero/middlewear"
+	"github.com/hillrnate/pritunl-zero/proxy"
+	"github.com/hillrnate/pritunl-zero/requires"
+	"github.com/hillrnate/pritunl-zero/service"
+	"github.com/hillrnate/pritunl-zero/static"
+	"github.com/hillrnate/pritunl-zero/utils"
 	"path/filepath"
 )
 

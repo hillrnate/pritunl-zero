@@ -9,7 +9,7 @@ import (
 	"encoding/pem"
 	"github.com/Sirupsen/logrus"
 	"github.com/dropbox/godropbox/errors"
-	"github.com/pritunl/pritunl-zero/errortypes"
+	"github.com/hillrnate/pritunl-zero/errortypes"
 	"math/big"
 	"time"
 )

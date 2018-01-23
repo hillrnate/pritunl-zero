@@ -2,11 +2,11 @@ package validator
 
 import (
 	"github.com/dropbox/godropbox/container/set"
-	"github.com/pritunl/pritunl-zero/database"
-	"github.com/pritunl/pritunl-zero/errortypes"
-	"github.com/pritunl/pritunl-zero/policy"
-	"github.com/pritunl/pritunl-zero/service"
-	"github.com/pritunl/pritunl-zero/user"
+	"github.com/hillrnate/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/errortypes"
+	"github.com/hillrnate/pritunl-zero/policy"
+	"github.com/hillrnate/pritunl-zero/service"
+	"github.com/hillrnate/pritunl-zero/user"
 	"gopkg.in/mgo.v2/bson"
 	"net/http"
 )

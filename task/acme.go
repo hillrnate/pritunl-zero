@@ -1,9 +1,9 @@
 package task
 
 import (
-	"github.com/pritunl/pritunl-zero/acme"
-	"github.com/pritunl/pritunl-zero/certificate"
-	"github.com/pritunl/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/acme"
+	"github.com/hillrnate/pritunl-zero/certificate"
+	"github.com/hillrnate/pritunl-zero/database"
 )
 
 var acmeRenew = &Task{

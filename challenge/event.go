@@ -1,8 +1,8 @@
 package challenge
 
 import (
-	"github.com/pritunl/pritunl-zero/event"
-	"github.com/pritunl/pritunl-zero/requires"
+	"github.com/hillrnate/pritunl-zero/event"
+	"github.com/hillrnate/pritunl-zero/requires"
 	"gopkg.in/mgo.v2/bson"
 	"sync"
 )

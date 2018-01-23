@@ -5,10 +5,10 @@ import (
 	"flag"
 	"github.com/Sirupsen/logrus"
 	"github.com/dropbox/godropbox/errors"
-	"github.com/pritunl/pritunl-zero/config"
-	"github.com/pritunl/pritunl-zero/database"
-	"github.com/pritunl/pritunl-zero/errortypes"
-	"github.com/pritunl/pritunl-zero/settings"
+	"github.com/hillrnate/pritunl-zero/config"
+	"github.com/hillrnate/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/errortypes"
+	"github.com/hillrnate/pritunl-zero/settings"
 	"gopkg.in/mgo.v2/bson"
 )
 

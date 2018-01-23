@@ -2,14 +2,14 @@ package demo
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/pritunl/pritunl-zero/agent"
-	"github.com/pritunl/pritunl-zero/audit"
-	"github.com/pritunl/pritunl-zero/errortypes"
-	"github.com/pritunl/pritunl-zero/log"
-	"github.com/pritunl/pritunl-zero/session"
-	"github.com/pritunl/pritunl-zero/settings"
-	"github.com/pritunl/pritunl-zero/ssh"
-	"github.com/pritunl/pritunl-zero/subscription"
+	"github.com/hillrnate/pritunl-zero/agent"
+	"github.com/hillrnate/pritunl-zero/audit"
+	"github.com/hillrnate/pritunl-zero/errortypes"
+	"github.com/hillrnate/pritunl-zero/log"
+	"github.com/hillrnate/pritunl-zero/session"
+	"github.com/hillrnate/pritunl-zero/settings"
+	"github.com/hillrnate/pritunl-zero/ssh"
+	"github.com/hillrnate/pritunl-zero/subscription"
 	"gopkg.in/mgo.v2/bson"
 	"time"
 )

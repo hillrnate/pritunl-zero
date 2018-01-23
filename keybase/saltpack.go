@@ -2,7 +2,7 @@ package keybase
 
 import (
 	"github.com/dropbox/godropbox/errors"
-	"github.com/pritunl/pritunl-zero/errortypes"
+	"github.com/hillrnate/pritunl-zero/errortypes"
 	"os"
 	"os/exec"
 	"os/user"

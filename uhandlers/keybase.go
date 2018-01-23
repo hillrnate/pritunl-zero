@@ -2,17 +2,17 @@ package uhandlers
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/pritunl/pritunl-zero/audit"
-	"github.com/pritunl/pritunl-zero/authorizer"
-	"github.com/pritunl/pritunl-zero/database"
-	"github.com/pritunl/pritunl-zero/demo"
-	"github.com/pritunl/pritunl-zero/errortypes"
-	"github.com/pritunl/pritunl-zero/event"
-	"github.com/pritunl/pritunl-zero/keybase"
-	"github.com/pritunl/pritunl-zero/secondary"
-	"github.com/pritunl/pritunl-zero/ssh"
-	"github.com/pritunl/pritunl-zero/user"
-	"github.com/pritunl/pritunl-zero/utils"
+	"github.com/hillrnate/pritunl-zero/audit"
+	"github.com/hillrnate/pritunl-zero/authorizer"
+	"github.com/hillrnate/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/demo"
+	"github.com/hillrnate/pritunl-zero/errortypes"
+	"github.com/hillrnate/pritunl-zero/event"
+	"github.com/hillrnate/pritunl-zero/keybase"
+	"github.com/hillrnate/pritunl-zero/secondary"
+	"github.com/hillrnate/pritunl-zero/ssh"
+	"github.com/hillrnate/pritunl-zero/user"
+	"github.com/hillrnate/pritunl-zero/utils"
 	"time"
 )
 

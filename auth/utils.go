@@ -2,13 +2,13 @@ package auth
 
 import (
 	"fmt"
-	"github.com/pritunl/pritunl-zero/cookie"
-	"github.com/pritunl/pritunl-zero/database"
-	"github.com/pritunl/pritunl-zero/errortypes"
-	"github.com/pritunl/pritunl-zero/node"
-	"github.com/pritunl/pritunl-zero/service"
-	"github.com/pritunl/pritunl-zero/session"
-	"github.com/pritunl/pritunl-zero/utils"
+	"github.com/hillrnate/pritunl-zero/cookie"
+	"github.com/hillrnate/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/errortypes"
+	"github.com/hillrnate/pritunl-zero/node"
+	"github.com/hillrnate/pritunl-zero/service"
+	"github.com/hillrnate/pritunl-zero/session"
+	"github.com/hillrnate/pritunl-zero/utils"
 	"net/http"
 	"net/url"
 )

@@ -1,10 +1,10 @@
 package authorizer
 
 import (
-	"github.com/pritunl/pritunl-zero/auth"
-	"github.com/pritunl/pritunl-zero/database"
-	"github.com/pritunl/pritunl-zero/service"
-	"github.com/pritunl/pritunl-zero/signature"
+	"github.com/hillrnate/pritunl-zero/auth"
+	"github.com/hillrnate/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/service"
+	"github.com/hillrnate/pritunl-zero/signature"
 	"net/http"
 )
 

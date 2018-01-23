@@ -3,11 +3,11 @@ package mhandlers
 import (
 	"github.com/Sirupsen/logrus"
 	"github.com/gin-gonic/gin"
-	"github.com/pritunl/pritunl-zero/authorizer"
-	"github.com/pritunl/pritunl-zero/config"
-	"github.com/pritunl/pritunl-zero/constants"
-	"github.com/pritunl/pritunl-zero/static"
-	"github.com/pritunl/pritunl-zero/utils"
+	"github.com/hillrnate/pritunl-zero/authorizer"
+	"github.com/hillrnate/pritunl-zero/config"
+	"github.com/hillrnate/pritunl-zero/constants"
+	"github.com/hillrnate/pritunl-zero/static"
+	"github.com/hillrnate/pritunl-zero/utils"
 	"net/http"
 	"strings"
 )

@@ -3,8 +3,8 @@ package logger
 import (
 	"github.com/Sirupsen/logrus"
 	"github.com/dropbox/godropbox/errors"
-	"github.com/pritunl/pritunl-zero/constants"
-	"github.com/pritunl/pritunl-zero/errortypes"
+	"github.com/hillrnate/pritunl-zero/constants"
+	"github.com/hillrnate/pritunl-zero/errortypes"
 	"os"
 )
 

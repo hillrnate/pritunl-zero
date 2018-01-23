@@ -3,7 +3,7 @@ package static
 
 import (
 	"github.com/dropbox/godropbox/errors"
-	"github.com/pritunl/pritunl-zero/errortypes"
+	"github.com/hillrnate/pritunl-zero/errortypes"
 	"io/ioutil"
 	"path"
 )

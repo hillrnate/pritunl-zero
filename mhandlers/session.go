@@ -2,11 +2,11 @@ package mhandlers
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/pritunl/pritunl-zero/database"
-	"github.com/pritunl/pritunl-zero/demo"
-	"github.com/pritunl/pritunl-zero/event"
-	"github.com/pritunl/pritunl-zero/session"
-	"github.com/pritunl/pritunl-zero/utils"
+	"github.com/hillrnate/pritunl-zero/database"
+	"github.com/hillrnate/pritunl-zero/demo"
+	"github.com/hillrnate/pritunl-zero/event"
+	"github.com/hillrnate/pritunl-zero/session"
+	"github.com/hillrnate/pritunl-zero/utils"
 	"strconv"
 	"time"
 )

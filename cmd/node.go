@@ -2,10 +2,10 @@ package cmd
 
 import (
 	"github.com/Sirupsen/logrus"
-	"github.com/pritunl/pritunl-zero/config"
-	"github.com/pritunl/pritunl-zero/constants"
-	"github.com/pritunl/pritunl-zero/node"
-	"github.com/pritunl/pritunl-zero/router"
+	"github.com/hillrnate/pritunl-zero/config"
+	"github.com/hillrnate/pritunl-zero/constants"
+	"github.com/hillrnate/pritunl-zero/node"
+	"github.com/hillrnate/pritunl-zero/router"
 	"gopkg.in/mgo.v2/bson"
 	"os"
 	"os/signal"

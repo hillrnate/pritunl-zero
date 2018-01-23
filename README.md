@@ -43,10 +43,10 @@ go install -tags production github.com/keybase/client/go/keybase
 sudo cp -f --preserve=mode ~/go/bin/keybase /usr/bin/pritunl-keybase
 
 # Install Pritunl Zero
-go get -u github.com/pritunl/pritunl-zero
+go get -u github.com/hillrnate/pritunl-zero
 
 # Run Pritunl Zero (must be run from source directory)
-cd ~/go/src/github.com/pritunl/pritunl-zero
+cd ~/go/src/github.com/hillrnate/pritunl-zero
 sudo ~/go/bin/pritunl-zero start
 ```
 
